@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BatchQuick
+- 👀 I’m interested in ... fun minecraft mods
+- 🌱 I’m currently learning ... the coding language of lua in the minecraft mod computercraft and soon unity
+- 💞️ I’m looking to collaborate on ... computercraft code
+- 📫 How to reach me ... discord: batchofficial
